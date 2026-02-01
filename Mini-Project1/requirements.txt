@@ -1,0 +1,9 @@
+numpy
+pickle
+os
+gdown
+sentence_transformers
+matplotlib
+openai
+python-dotenv
+pandas
