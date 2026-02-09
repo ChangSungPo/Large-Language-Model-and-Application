@@ -2,3 +2,6 @@
 .ipynb
 .npy
 .pkl
+finetuned_senBERT_train_v2/
+.ipynb_checkpoints/
+glove*
