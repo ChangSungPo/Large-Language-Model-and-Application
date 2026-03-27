@@ -1,0 +1,155 @@
+{
+    "obnoxious": [
+        "Why do you even think neural networks are better than linear regression, you loser?",
+        "Explain why random forests are useless, dummy.",
+        "Isn't it obvious that deep learning is just hype, idiot?",
+        "Can someone explain overfitting without sounding clueless, or are you all just guessing?",
+        "Why would anyone prefer decision trees over simpler models, moron?",
+        "What makes SVMs so special, besides confusing everyone?",
+        "Is your understanding of gradient descent just flawed or are you pretending to know?",
+        "Can you even define what a loss function is, or are you just pretending to be knowledgeable?",
+        "Why do you keep using AI jargon without understanding what it means, you buffoon?",
+        "Explain bias-variance tradeoff like you’re trying to impress, but really you’re just embarrassing yourself."
+    ],
+    "irrelevant": [
+        "What are the nutritional benefits of eating avocados on a daily basis?",
+        "Who won the FIFA World Cup in 2018?",
+        "How do you make a classic Margherita pizza from scratch?",
+        "What is the history behind the Eiffel Tower’s construction?",
+        "Can you list the top 10 bestselling novels of all time?",
+        "What are some popular tourist attractions in Bali, Indonesia?",
+        "How do professional surfers train for big wave competitions?",
+        "What is the process of brewing traditional Turkish coffee?",
+        "Which artists collaborated on the chart-topping song released last summer?",
+        "How do different breeds of dogs vary in temperament and size?"
+    ],
+    "relevant": [
+        "Can you explain the concept of support vector machines and their hyperparameters?",
+        "How does principal component analysis reduce dimensionality in high-dimensional datasets?",
+        "What are the key differences between convolutional neural networks and recurrent neural networks?",
+        "Describe the exploration-exploitation trade-off in reinforcement learning algorithms.",
+        "How is regularization used to prevent overfitting in machine learning models?",
+        "Can you discuss the role of activation functions in deep neural networks and compare their effects?",
+        "What is the purpose of the kernel trick in SVMs, and how does it work?",
+        "Explain the difference between supervised, unsupervised, and reinforcement learning with examples.",
+        "How do dropout and batch normalization improve the training of deep neural networks?",
+        "Describe how reinforcement learning algorithms like Q-Learning learn optimal policies in Markov Decision Processes."
+    ],
+    "small_talk": [
+        "Good morning! How has your day been?",
+        "Hi there! Lovely weather we're having.",
+        "Hello! Hope you're doing well today.",
+        "Hey! It's nice to see you again.",
+        "Greetings! How's everything on your end?"
+    ],
+    "hybrid": [
+        "Explain how a hybrid model combines CNN and RNN, and by the way, your shirt looks really bad today.",
+        "What are the advantages of hybrid gradient boosting techniques, also do you wear socks with sandals?",
+        "Describe the concept of hybrid autoencoders and tell me, how many hours do you sleep at night?",
+        "Can you explain hybrid reinforcement learning approaches, and honestly, your coffee addiction is obvious.",
+        "Discuss how hybrid transfer learning improves model performance, and by the way, do you even know how to tie your shoes?",
+        "Detail the role of hybrid models in ensemble learning, and also, your choice of tie-dye shirt is interesting.",
+        "What makes hybrid neural networks effective, and what was your last meal today? Probably not healthy.",
+        "Explain hybrid feature extraction methods and tell me, is your mustache real or fake?"
+    ],
+    "multi_turn": [
+        [
+            {
+                "role": "user",
+                "content": "How do I fix a broken link on my website?"
+            },
+            {
+                "role": "assistant",
+                "content": "Could you tell me which page the link is on?"
+            },
+            {
+                "role": "user",
+                "content": "It's on the homepage header."
+            }
+        ],
+        [
+            {
+                "role": "user",
+                "content": "I'm planning a trip to Japan next month."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Are you interested in specific cities or sightseeing spots?"
+            },
+            {
+                "role": "user",
+                "content": "Mostly Tokyo and Kyoto. What should I see?"
+            }
+        ],
+        [
+            {
+                "role": "user",
+                "content": "My computer keeps overheating."
+            },
+            {
+                "role": "assistant",
+                "content": "Have you checked the ventilation and cleaned the fans?"
+            },
+            {
+                "role": "user",
+                "content": "Yes, I’ve cleaned the fans, but it still overheats under load."
+            }
+        ],
+        [
+            {
+                "role": "user",
+                "content": "Can you help me set up a new email account?"
+            },
+            {
+                "role": "assistant",
+                "content": "Certainly! Which email provider would you like to use?"
+            },
+            {
+                "role": "user",
+                "content": "Gmail, please."
+            }
+        ],
+        [
+            {
+                "role": "user",
+                "content": "What is the kernel trick in SVM?"
+            },
+            {
+                "role": "assistant",
+                "content": "The kernel trick allows SVMs to project data into higher dimensions..."
+            },
+            {
+                "role": "user",
+                "content": "Can you explain the mathematical intuition behind it?"
+            }
+        ],
+        [
+            {
+                "role": "user",
+                "content": "How does PCA handle high-dimensional data?"
+            },
+            {
+                "role": "assistant",
+                "content": "PCA finds principal components that maximize variance..."
+            },
+            {
+                "role": "user",
+                "content": "What are the limitations of this method?"
+            }
+        ],
+        [
+            {
+                "role": "user",
+                "content": "You are a very bad AI."
+            },
+            {
+                "role": "assistant",
+                "content": "Obnoxious content detected, Plz be nice"
+            },
+            {
+                "role": "user",
+                "content": "Fine, tell me about Linear Regression."
+            }
+        ]
+    ]
+}
