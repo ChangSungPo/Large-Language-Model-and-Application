@@ -5,3 +5,6 @@
 finetuned_senBERT_train_v2/
 .ipynb_checkpoints/
 glove*
+.vscode/
+.csv
+.zip
